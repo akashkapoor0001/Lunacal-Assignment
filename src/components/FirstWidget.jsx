@@ -78,8 +78,8 @@ const FirstWidget = () => {
                 </div>
                 <div className="">
                     <p className="text-[#969696]">
-                        I'm K Amith, a web developer skilled in Next.js and the MERN stack.
-                        I've built projects like A-Expense Tracker and A-Chat, showcasing my expertise in full-stack development.
+                        I am Akash Kapoor, a web developer skilled in React.js, Next.js and the MERN stack.
+                        I've built projects like GitHub Commit Notifier (Extension), A-Expense Tracker and , showcasing my expertise in full-stack development.
                         Currently in my final year of BTech, I'm eager to combine web development and cybersecurity in my next project.
                     </p>
                 </div>
