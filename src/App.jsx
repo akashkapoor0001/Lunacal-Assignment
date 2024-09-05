@@ -1,5 +1,5 @@
 import React from 'react'
-import SecondPart from './components/SecondPart'
+import BothWidgets from './components/BothWidgets'
 
 const App = () => {
   return (
@@ -12,7 +12,7 @@ const App = () => {
                   bg-[#616161D1] mt-10 lg:mt-0"
       >
       </div>
-      <SecondPart />
+      <BothWidgets />
     </div>
   )
 }

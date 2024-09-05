@@ -1,6 +1,6 @@
 import React from 'react'
 
-const HrTag = () => {
+const Underline = () => {
     return (
         <div className="w-[101%] h-[8%] flex justify-center items-center flex-col">
             <div
@@ -11,4 +11,4 @@ const HrTag = () => {
     )
 }
 
-export default HrTag
+export default Underline

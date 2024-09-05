@@ -1,19 +1,19 @@
 import React from 'react'
 import Widget_One from './Widget_One'
 import Widget_Two from './Widget_Two'
-import HrTag from './HrTag'
+import Underline from './UnderLine'
 
-const SecondPart = () => {
+const BothWidgets = () => {
     return (
         <div
             className="flex-col w-[680px] h-[520px] lg:ml-[50px] mt-[50px] lg:mt-0 mb-[90px] lg:mb-[37px]"
         >
             <Widget_One />
-            <HrTag />
+            <Underline />
             <Widget_Two />
-            <HrTag />
+            <Underline />
         </div>
     )
 }
 
-export default SecondPart
+export default BothWidgets
