@@ -41,7 +41,7 @@ const SecondWidget = () => {
     };
 
     return (
-        <div className="h-[50%] w-[100%] bg-[#363C43] rounded-[27px] shadow-lg shadow-black">
+        <div className="h-[50%] w-[101%] bg-[#363C43] rounded-[27px] shadow-lg shadow-black">
             {/* first half */}
             <div className="p-4 flex gap-4">
                 <div>
