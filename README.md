@@ -76,10 +76,12 @@ Navigate to http://localhost:5173 in your browser to view the application.
 
 ## Technologies Used
 
-React.js:
+React + Vite
+
 GSAP
+
 Tailwind CSS
-Vite
+
 
 ## Contributing
 
